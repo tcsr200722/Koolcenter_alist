@@ -3,9 +3,9 @@
     "description": "Alist. 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs", 
     "home_url": "Module_alist.asp", 
     "link": "https://github.com/everstu/Koolcenter_alist", 
-    "md5": "8091986dd17ecd9e9ebcc1b68930d4b5", 
+    "md5": "c720a034e545574757d607c379a6bef1", 
     "module": "alist", 
     "tags": "云同步", 
     "title": "Alist 文件列表", 
-    "version": "1.9.4"
+    "version": "1.9.5"
 }
